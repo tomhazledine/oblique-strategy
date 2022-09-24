@@ -1,4 +1,8 @@
-const { strategies } = require("./oblique-strategies");
+#!/usr/bin/env node
+// 👆 Used to tell Node.js that this is a CLI tool
+
+"use strict";
+import { strategies } from "./strategies.js";
 
 const random = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 const createPadding = (char, length) =>

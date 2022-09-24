@@ -1,4 +1,4 @@
-const strategies = [
+export const strategies = [
   {
     edition: 1,
     name: "Edition 1",
@@ -625,4 +625,3 @@ const strategies = [
     ],
   },
 ];
-module.exports = { strategies };
