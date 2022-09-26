@@ -5,11 +5,11 @@
   "main": "/index.js",
   "type": "module",
   "bin": "./index.js",
+  "author": "Tom Hazledine <tom@tomhazledine.com> (https://tomhazledine.com)",
+  "license": "MIT",
   "scripts": {
     "start": "node index",
     "oblique-strategy": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
