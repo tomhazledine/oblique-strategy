@@ -11,5 +11,17 @@
     "start": "node index",
     "oblique-strategy": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhazledine/oblique-strategy.git"
+  },
+  "keywords": [
+    "Brian Eno",
+    "Oblique Strategies",
+    "Oblique Strategy",
+    "inspiration",
+    "npx",
+    "npx inspiration"
+  ]
 }
