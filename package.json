@@ -1,6 +1,6 @@
 {
   "name": "oblique-strategy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display a random Oblique Strategy in your terminal.",
   "main": "/index.js",
   "type": "module",
